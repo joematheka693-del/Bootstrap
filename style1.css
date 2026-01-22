@@ -1,0 +1,37 @@
+.division{
+    background-color: rgb(21, 21, 77);
+    height: 80px;
+}
+
+.paragraph1{
+    color: azure;
+}
+
+.paragraph2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: azure;
+}
+
+.ft1{
+    background-color: rgb(15, 10, 51);
+}
+
+h3{
+    text-decoration: underline yellowgreen 2px ;
+    padding: 20px;
+    font-size:larger;
+}
+
+.anchor{
+    color: azure;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(73, 145, 148);
+}
+
+.m-2:hover{
+    color: yellowgreen;
+}
